@@ -6,8 +6,8 @@ summary: "All LEDs are lit but nothing happens, or something else is not working
 order: 1
 segment: ["music-producer", "gift-recipient"]
 deflection_target: 80
-status: edited-2026-05
-last_edited: 2026-10-25
+status: edited-2026-11
+last_edited: 2026-11-14
 emoji: 🔧
 ---
 
@@ -18,11 +18,12 @@ Pick the symptom that matches your situation. Each row points to the right page 
 | Computer does not see the device at all | Wrong cable, wrong port, wrong browser | [Device will not connect](/troubleshooting/wont-connect/) |
 | Old **Micro-USB** TouchMe/Playtron — nothing on a new Mac | New Mac is too strict; needs a USB hub | [Device will not connect](/troubleshooting/wont-connect/) |
 | LED on, but no sound when I touch | MIDI permission, wrong browser, no grounding | [No sound or MIDI not detected](/troubleshooting/no-sound/) |
+| LED on, but unsure whether notes arrive | Device recognition, MIDI notes, and audio are separate checks | [Check the signal path](/troubleshooting/power-midi-sound/) |
 | Playtron specifically — plugged in but silent | Play check, then grounding | [If Playtron is not playing](/devices/playtron/#if-playtron-is-not-playing) |
 | Random notes play with nothing touched | Calibration / electrical interference | "Spurious notes" below |
 | USB port loose, device physically broken | Hardware fault | "Hardware damage" below |
 | Some objects play, others do not | Conductivity | [Objects you can play](/sound/objects-you-can-play/) |
-| Worked once, now missing | Busy MIDI port, cable, USB enumeration, driver, or firmware | [Device will not connect](/troubleshooting/wont-connect/) |
+| Worked once, then stops | Check whether the device, incoming notes, or audio disappeared | [My device plays, then stops](/troubleshooting/connection-drops/) |
 | Windows: browser freezes when I unplug the device | Chromium browser bug on Windows | [Windows: browser freezes](/troubleshooting/windows-browser-freeze/) |
 
 ## Quick checklist — works for 80% of "not working" cases

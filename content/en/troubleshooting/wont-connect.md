@@ -6,8 +6,8 @@ summary: "Your computer does not see the device, or the browser shows 'denied ac
 order: 2
 segment: ["music-producer", "gift-recipient"]
 deflection_target: 180
-status: edited-2026-07
-last_edited: 2026-10-25
+status: edited-2026-11
+last_edited: 2026-11-14
 emoji: 🔌
 ---
 
@@ -76,6 +76,8 @@ These devices use an early USB design that new Macs treat very strictly and refu
 Cheap 4-port hubs from about €8–15 are enough — Anker, UGREEN, Amazon Basics, Sabrent. Examples for USB-C Macs: a [UGREEN USB-C→USB-A hub](https://www.amazon.com/dp/B07PY87TBD) or [Anker USB-C hub](https://www.amazon.com/dp/B0CCDMR66Y). **Avoid passive USB-C-to-USB-A adapters — they are not hubs.** If one hub does not help, it is usually the wrong type; a basic USB 2.0 hub is the safest.
 
 > 💬 **Trying this? Message us on WhatsApp and we'll work it out together:** [chat with us on WhatsApp](https://wa.me/351937910673?text=Hi%20Playtronica%2C%20I%20am%20trying%20the%20USB%20hub%20fix%20for%20my%20old%20Micro-USB%20device%20that%20my%20new%20Mac%20does%20not%20detect.%20My%20setup%3A%20). Tell us your Mac model, the hub you used, and what Audio MIDI Setup shows.
+
+Does the device work at first, then stop? Follow [My device plays, then stops](/troubleshooting/connection-drops/).
 
 ## Related pages
 

@@ -6,8 +6,8 @@ summary: "Connect a plant, hear the first notes, then choose Settings, offline u
 order: 3
 segment: ["music-producer", "creator"]
 deflection_target: 70
-status: edited-2026-09
-last_edited: 2026-09-25
+status: edited-2026-11
+last_edited: 2026-11-14
 emoji: 🌿
 ---
 
@@ -59,6 +59,10 @@ Need it at a venue without internet? Follow the
 [offline Windows guide](/software/biotron-offline-settings/). Prepare and
 install the field-test beta once in Chrome or Edge, then reopen the installed
 copy without internet. Firmware downloads remain online-only.
+
+If you are using the new [Biotron site](https://biotron.playtronica.com) with an **i** beside settings, see [Reading settings hints](/software/biotron-settings-hints/).
+
+For the compact interface, see [Biotron settings layout](/software/biotron-settings-layout/). These guides describe the new interface; the older Settings site linked above may look different.
 
 ## Use Biotron with a DAW
 

@@ -6,8 +6,8 @@ summary: "Plug a Playtronica device into a Mac, Windows PC, iPhone, iPad, or And
 order: 2
 segment: ["music-producer", "gift-recipient"]
 deflection_target: 80
-status: edited-2026-05
-last_edited: 2026-10-25
+status: edited-2026-11
+last_edited: 2026-11-14
 emoji: 💻
 ---
 
@@ -26,6 +26,8 @@ Every Playtronica device is a class-compliant USB MIDI device. No drivers are re
 1. **Plug in the device.** Windows 10 and Windows 11 install a generic MIDI driver automatically. No manual driver installation is required.
 2. **Check Device Manager.** Right-click Start → Device Manager → Sound, video and game controllers. Your Playtronica device should appear in the list.
 3. **Enable the MIDI input in your DAW.** In Ableton, go to Options → Preferences → MIDI. In FL Studio, go to Options → MIDI Settings. Enable the Playtronica device as a MIDI input.
+
+For phone and tablet checks, first distinguish [on-screen play, a MIDI app, and device settings](/software/phone-browser-or-app/).
 
 ## On iPhone or iPad
 

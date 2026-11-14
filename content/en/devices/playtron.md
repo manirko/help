@@ -6,8 +6,8 @@ summary: "Clip the wires, ground yourself, touch anything that conducts. Setup, 
 order: 2
 segment: ["music-producer", "gift-recipient", "creator"]
 deflection_target: 90
-status: edited-2026-08
-last_edited: 2026-10-25
+status: edited-2026-11
+last_edited: 2026-11-14
 emoji: 🍉
 ---
 
@@ -56,6 +56,10 @@ You have read about grounding. Three steps to your first sound:
 3. **Hold a gold corner (Ground) with one hand and touch an object with the other.** First clip an alligator wire to a note pin on Playtron, and clip the other end to a conductive object — fruit, plants, metal, or water. Touch the object and a note plays. The LED blinks each time you complete the circuit and a note plays, which is how you know the circuit is working.
 
 For more freedom, clip a cable to Ground and hold its metal end. Repeat the clip step for each note, up to 16 objects. On a phone or tablet, Play plays with the touch screen. For more instruments, see the web synths at [synth.playtronica.com](https://synth.playtronica.com).
+
+Play opens a first-connection guide. See [How to play](/software/play-how-to-play/) to close it or open it again.
+
+To change the page display, see [Full screen in Play](/software/play-fullscreen/), including the earlier menu route.
 
 ## If Playtron is not playing
 

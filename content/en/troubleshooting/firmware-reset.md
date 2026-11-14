@@ -6,8 +6,8 @@ summary: "Try the normal update first. Use manual recovery only for a board revi
 order: 5
 segment: ["music-producer"]
 deflection_target: 60
-status: edited-2026-08
-last_edited: 2026-08-26
+status: edited-2026-11
+last_edited: 2026-11-14
 emoji: ⚡
 ---
 
@@ -31,6 +31,8 @@ Settings or Windows can still see the device.
 > ⚠️ **The board must match the picture.** USB-C alone does not identify a
 > hardware revision. If any label, component, or contact position differs,
 > stop. Send support a clear photo of both sides instead of probing pads.
+
+Downloaded the file but unsure whether it is installed? See [How to check each update stage](/troubleshooting/firmware-download-vs-installed/).
 
 ## Try the normal update
 

@@ -6,8 +6,8 @@ summary: "Web synths for TouchMe, Biotron, and Playtron when you want more sound
 order: 1
 segment: ["music-producer", "gift-recipient"]
 deflection_target: 25
-status: edited-2026-05
-last_edited: 2026-10-25
+status: edited-2026-11
+last_edited: 2026-11-14
 emoji: 🎹
 ---
 
@@ -16,6 +16,8 @@ emoji: 🎹
 For TouchMe, [open TouchMe online](https://touchme.playtronica.com/).
 
 > ℹ️ **The synths at synth.playtronica.com are not made by Playtronica.** They are a curated collection of third-party web synths. Some may stop working as browsers change. We try to keep the list up to date but cannot fix the synths themselves. If you find a broken synth, tell us.
+
+Using Play? See [Full screen in Play](/software/play-fullscreen/) for the button and earlier menu route.
 
 ## Where to find synths
 

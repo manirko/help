@@ -6,12 +6,14 @@ summary: "iOS and Android apps that work with Playtronica devices."
 order: 6
 segment: ["music-producer", "gift-recipient"]
 deflection_target: 50
-status: edited-2026-05
-last_edited: 2026-10-25
+status: edited-2026-11
+last_edited: 2026-11-14
 emoji: 📱
 ---
 
 > ⚠️ **Use a computer for web synths.** We have not tested Playtronica devices with web synths in phone or tablet browsers. Use the apps listed below instead. [Play](https://play.playtronica.com) plays with the touch screen on a phone or tablet.
+
+Does the site play on the screen but ignore your device? See [Phone browser or MIDI app?](/software/phone-browser-or-app/).
 
 ## Adapters you will need (not in the box)
 

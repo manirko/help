@@ -6,12 +6,14 @@ summary: "The device is plugged in but you do not hear anything. Work through th
 order: 3
 segment: ["music-producer", "gift-recipient"]
 deflection_target: 200
-status: edited-2026-05
-last_edited: 2026-10-25
+status: edited-2026-11
+last_edited: 2026-11-14
 emoji: 🔇
 ---
 
 The device is connected but you cannot hear anything. Work through this checklist in order.
+
+Not sure which stage is failing? [Check the path from device recognition to notes and sound](/troubleshooting/power-midi-sound/).
 
 ## First — does the device have power?
 

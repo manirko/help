@@ -7,8 +7,8 @@ summary: "Where your package is now, when it should arrive, and what to do if tr
 segment: ["gift-buyer", "music-producer"]
 deflection_target: 320
 order: 1
-status: edited-2026-05
-last_edited: 2026-05-26
+status: edited-2026-11
+last_edited: 2026-11-14
 emoji: 🔍
 ---
 
@@ -20,6 +20,8 @@ Two carriers ship Playtronica orders:
 - **International orders** (US, Canada, UK, Asia-Pacific, all other regions) ship from Hong Kong with **Floship**. Typical delivery: **7 to 14 business days** for the US and Canada, **5 to 10 business days** for Asia-Pacific.
 
 The first 24 to 48 hours after we ship can show no updates. The carrier may not scan the package until it reaches the first regional hub. This is normal.
+
+Does the shipping email say something different from tracking? See [Shipping status explained](/orders/shipping-status-explained/).
 
 ## Where is my order?
 

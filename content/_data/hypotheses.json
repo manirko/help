@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "description": "Article outcome inventory — each page is a hypothesis that a verified reusable answer improves the matching customer outcome. Review with referenced before/after evidence. See docs/HYPOTHESIS-LOG.md.",
-  "generated_at": "2026-11-12",
+  "generated_at": "2026-11-14",
   "pages": [
     {
       "url": "/devices/biotron-advanced/",
@@ -464,6 +464,20 @@
       "notes": ""
     },
     {
+      "url": "/orders/shipping-status-explained/",
+      "title": "Shipping email received, but tracking is not moving",
+      "audience": [
+        "gift-buyer",
+        "music-producer"
+      ],
+      "what_we_hope": "Publish a verified answer for 'shipping-status-explained' that makes the matching customer problem easier to resolve or prevents it.",
+      "deflection_target_per_month": null,
+      "first_published": null,
+      "next_check_in": "2027-02-12",
+      "outcome": null,
+      "notes": "Unpublished draft prepared 2026-11-14. Human verification and Andrey publication approval pending; no measured outcome."
+    },
+    {
       "url": "/orders/track-your-order/",
       "title": "Track your order",
       "audience": [
@@ -632,6 +646,32 @@
       "notes": ""
     },
     {
+      "url": "/software/biotron-settings-hints/",
+      "title": "How to read the i hints in Biotron settings",
+      "audience": [
+        "music-producer"
+      ],
+      "what_we_hope": "Publish a verified answer for 'biotron-settings-hints' that makes the matching customer problem easier to resolve or prevents it.",
+      "deflection_target_per_month": null,
+      "first_published": null,
+      "next_check_in": "2027-02-12",
+      "outcome": null,
+      "notes": "Unpublished draft prepared 2026-11-14. Human verification and Andrey publication approval pending; no measured outcome."
+    },
+    {
+      "url": "/software/biotron-settings-layout/",
+      "title": "Where are settings in the new Biotron menu?",
+      "audience": [
+        "music-producer"
+      ],
+      "what_we_hope": "Publish a verified answer for 'biotron-settings-layout' that makes the matching customer problem easier to resolve or prevents it.",
+      "deflection_target_per_month": null,
+      "first_published": null,
+      "next_check_in": "2027-02-12",
+      "outcome": null,
+      "notes": "Unpublished draft prepared 2026-11-14. Human verification and Andrey publication approval pending; no measured outcome."
+    },
+    {
       "url": "/software/connecting/",
       "title": "Connect your device to a computer",
       "audience": [
@@ -714,6 +754,48 @@
       "notes": ""
     },
     {
+      "url": "/software/phone-browser-or-app/",
+      "title": "The site plays on my phone, but my device does not",
+      "audience": [
+        "music-producer",
+        "gift-recipient"
+      ],
+      "what_we_hope": "Publish a verified answer for 'phone-browser-or-app' that makes the matching customer problem easier to resolve or prevents it.",
+      "deflection_target_per_month": null,
+      "first_published": null,
+      "next_check_in": "2027-02-12",
+      "outcome": null,
+      "notes": "Unpublished draft prepared 2026-11-14. Human verification and Andrey publication approval pending; no measured outcome."
+    },
+    {
+      "url": "/software/play-fullscreen/",
+      "title": "How to use Full screen in Play",
+      "audience": [
+        "music-producer",
+        "gift-recipient"
+      ],
+      "what_we_hope": "Publish a verified answer for 'play-fullscreen' that makes the matching customer problem easier to resolve or prevents it.",
+      "deflection_target_per_month": null,
+      "first_published": null,
+      "next_check_in": "2027-02-12",
+      "outcome": null,
+      "notes": "Unpublished draft prepared 2026-11-14. Human verification and Andrey publication approval pending; no measured outcome."
+    },
+    {
+      "url": "/software/play-how-to-play/",
+      "title": "Why does Play open How to play?",
+      "audience": [
+        "music-producer",
+        "gift-recipient"
+      ],
+      "what_we_hope": "Publish a verified answer for 'play-how-to-play' that makes the matching customer problem easier to resolve or prevents it.",
+      "deflection_target_per_month": null,
+      "first_published": null,
+      "next_check_in": "2027-02-12",
+      "outcome": null,
+      "notes": "Unpublished draft prepared 2026-11-14. Human verification and Andrey publication approval pending; no measured outcome."
+    },
+    {
       "url": "/sound/grounding/",
       "title": "Grounding — how and why",
       "audience": [
@@ -739,6 +821,33 @@
       "next_check_in": "2026-08-24",
       "outcome": null,
       "notes": ""
+    },
+    {
+      "url": "/troubleshooting/connection-drops/",
+      "title": "My device plays, then stops",
+      "audience": [
+        "music-producer",
+        "gift-recipient"
+      ],
+      "what_we_hope": "Publish a verified answer for 'connection-drops' that makes the matching customer problem easier to resolve or prevents it.",
+      "deflection_target_per_month": null,
+      "first_published": null,
+      "next_check_in": "2027-02-12",
+      "outcome": null,
+      "notes": "Unpublished draft prepared 2026-11-14. Human verification and Andrey publication approval pending; no measured outcome."
+    },
+    {
+      "url": "/troubleshooting/firmware-download-vs-installed/",
+      "title": "I downloaded firmware: is the update installed?",
+      "audience": [
+        "music-producer"
+      ],
+      "what_we_hope": "Publish a verified answer for 'firmware-download-vs-installed' that makes the matching customer problem easier to resolve or prevents it.",
+      "deflection_target_per_month": null,
+      "first_published": null,
+      "next_check_in": "2027-02-12",
+      "outcome": null,
+      "notes": "Unpublished draft prepared 2026-11-14. Human verification and Andrey publication approval pending; no measured outcome."
     },
     {
       "url": "/troubleshooting/firmware-reset/",
@@ -793,6 +902,20 @@
       "next_check_in": "2026-08-24",
       "outcome": null,
       "notes": ""
+    },
+    {
+      "url": "/troubleshooting/power-midi-sound/",
+      "title": "Device plugged in, but no sound: check the signal path",
+      "audience": [
+        "music-producer",
+        "gift-recipient"
+      ],
+      "what_we_hope": "Publish a verified answer for 'power-midi-sound' that makes the matching customer problem easier to resolve or prevents it.",
+      "deflection_target_per_month": null,
+      "first_published": null,
+      "next_check_in": "2027-02-12",
+      "outcome": null,
+      "notes": "Unpublished draft prepared 2026-11-14. Human verification and Andrey publication approval pending; no measured outcome."
     },
     {
       "url": "/troubleshooting/touchme-not-recognized/",
